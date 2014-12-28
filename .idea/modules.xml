@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/anagram/anagram.iml" filepath="$PROJECT_DIR$/anagram/anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercism.iml" filepath="$PROJECT_DIR$/exercism.iml" />
       <module fileurl="file://$PROJECT_DIR$/leap/leap.iml" filepath="$PROJECT_DIR$/leap/leap.iml" />
     </modules>
